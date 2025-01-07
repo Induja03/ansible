@@ -1,0 +1,6 @@
+class role{
+public static void main(string[]args){
+project name=("[hello]","[world]")
+system.out.println("Hello world!")
+}
+}
